@@ -192,7 +192,7 @@ const schedule = () => {
                   <div>
                     <div>03</div> <div>rd</div>
                   </div>
-                  - Feb 12
+                  - Feb 
                   <div>
                     <div>12</div> <div>th</div>
                   </div>
@@ -212,7 +212,7 @@ const schedule = () => {
                 <div>
                   
                   <div>
-                    <div></div> <div></div>
+                    <div> 12</div> <div></div>
                   </div>
                 </div>
               </h1>
