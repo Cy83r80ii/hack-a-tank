@@ -168,9 +168,9 @@ const schedule = () => {
               <h2 className="container-title-mobile">Registration opens</h2>{" "}
               <h2 className="date-mobile">
                 <div>
-                  Aug
+                  Feb
                   <div>
-                    <div>17</div> <div>th</div>
+                    <div>03</div> <div>rd</div>
                   </div>
                 </div>
               </h2>
@@ -188,9 +188,9 @@ const schedule = () => {
               <h1 className="date-mobile">
                 {" "}
                 <div>
-                  Aug
+                  Feb
                   <div>
-                    <div>17</div> <div>th</div>
+                    <div>03</div> <div>rd</div>
                   </div>
                   -Aug
                   <div>
@@ -210,9 +210,9 @@ const schedule = () => {
               <h2 className="container-title-mobile">Finalists Annoncements</h2>
               <h1 className="date-mobile">
                 <div>
-                  Sep
+                  
                   <div>
-                    <div>1</div> <div>st</div>
+                    <div></div> <div></div>
                   </div>
                 </div>
               </h1>
@@ -229,9 +229,9 @@ const schedule = () => {
               <h2 className="container-title-mobile">Registration Closes</h2>
               <h1 className="date-mobile">
                 <div>
-                  Aug
+                  Feb
                   <div>
-                    <div>28</div> <div>th</div>
+                    <div>12</div> <div>th</div>
                   </div>
                 </div>
               </h1>
@@ -249,13 +249,13 @@ const schedule = () => {
               <br />
               <h1 className="date-mobile">
                 <div>
-                  sep
+                  Feb
                   <div>
-                    <div>8</div> <div>th</div>
+                    <div>21</div> <div>st</div>
                   </div>
-                  - sep
+                  - Feb
                   <div>
-                    <div>9</div> <div>th</div>
+                    <div>22</div> <div>nd</div>
                   </div>
                 </div>
               </h1>
