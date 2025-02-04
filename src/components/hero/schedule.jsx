@@ -192,9 +192,9 @@ const schedule = () => {
                   <div>
                     <div>03</div> <div>rd</div>
                   </div>
-                  -Aug
+                  - Feb 12
                   <div>
-                    <div>28</div> <div>th</div>
+                    <div>12</div> <div>th</div>
                   </div>
                 </div>
               </h1>
@@ -271,9 +271,9 @@ const schedule = () => {
               <h2 className="container-title-mobile">Award Ceremony</h2>
               <h1 className="date-mobile">
                 <div>
-                  sep
+                  Feb
                   <div>
-                    <div>9</div> <div>th</div>
+                    <div>22</div> <div>nd</div>
                   </div>
                 </div>
               </h1>
