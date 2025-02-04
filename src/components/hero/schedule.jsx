@@ -61,7 +61,7 @@ const schedule = () => {
                   </div>
                   - feb
                   <div>
-                    <div> </div> <div>th</div>
+                    <div> 12 </div> <div>th</div>
                   </div>
                 </div>
               </h1>
