@@ -180,6 +180,11 @@
   animation: line 1s ease-in-out forwards;
 }
 @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
+  .parent_hero .title1 .hackathon {
+  position: relative;
+  font-size: 40px;
+  font-family:"liger";
+}
   .parent_hero .title1 .hackathon::after {
     height: 2vh;
   }
